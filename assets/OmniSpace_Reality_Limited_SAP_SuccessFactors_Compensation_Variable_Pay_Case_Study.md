@@ -1,0 +1,1 @@
+This file is being prepared from the generated case study. See accompanying source artifact.
