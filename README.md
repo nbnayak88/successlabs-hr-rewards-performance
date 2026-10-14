@@ -24,3 +24,7 @@ SAP SuccessFactors Compensation and Variable Pay transformation case study for a
 - [Compensation & Variable Pay Enterprise Architecture Case Study](assets/OmniVerse_Energy_Limited_SAP_SuccessFactors_Compensation_Variable_Pay_Case_Study.md)
 
 Note: The Gamma presentation remains hosted by Gamma. The supporting Markdown file links to it; an exported PPTX/PDF file has not been committed to this repository.
+
+## Lab 05 — Build Implementation Intelligence
+
+- [Compensation Configuration Sequence Journal](labs/05-build-implementation-intelligence/compensation-configuration-sequence-journal.md) — source journal for OmniVerse Energy Ltd., with added implementation control gates, dependency/risk analysis, and business-architecture traceability.
