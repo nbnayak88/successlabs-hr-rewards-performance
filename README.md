@@ -28,3 +28,4 @@ Note: The Gamma presentation remains hosted by Gamma. The supporting Markdown fi
 ## Lab 05 — Build Implementation Intelligence
 
 - [Compensation Configuration Sequence Journal](labs/05-build-implementation-intelligence/compensation-configuration-sequence-journal.md) — source journal for OmniVerse Energy Ltd., with added implementation control gates, dependency/risk analysis, and business-architecture traceability.
+- [Variable Pay Configuration Sequence Journal](labs/05-build-implementation-intelligence/variable-pay-configuration-sequence-journal.md) — source sequence of activities for implementing SAP SuccessFactors Variable Pay for OmniVerse Energy Ltd.
