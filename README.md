@@ -29,3 +29,7 @@ Note: The Gamma presentation remains hosted by Gamma. The supporting Markdown fi
 
 - [Compensation Configuration Sequence Journal](labs/05-build-implementation-intelligence/compensation-configuration-sequence-journal.md) — source journal for OmniVerse Energy Ltd., with added implementation control gates, dependency/risk analysis, and business-architecture traceability.
 - [Variable Pay Configuration Sequence Journal](labs/05-build-implementation-intelligence/variable-pay-configuration-sequence-journal.md) — source sequence of activities for implementing SAP SuccessFactors Variable Pay for OmniVerse Energy Ltd.
+
+## Super Sprint 20™ — Pre-Foundation to Foundation
+
+- [OmniVerse Energy: SAP SuccessFactors Compensation & Variable Pay — 20-Hour Foundation Sprint](labs/03-design-strategy-architecture/omniverse-energy-compensation-variable-pay-pre-foundation-to-foundation-sprint.md) — 10 sessions, professional deliverables matrix, energy-sector personas, beginner calculations, architecture and assessment.
